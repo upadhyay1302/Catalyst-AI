@@ -16,7 +16,7 @@ Welcome to Catalyst AI, your personal assistant! This AI program is designed to 
 
 1. **Installation**: Ensure you have Python 3.x installed.
 2. **Dependencies**: Install required libraries: `pip install speech_recognition webbrowser openai requests`.
-3. **Run the Program**: Execute `jarvis.py` to start Jarvis AI.
+3. **Run the Program**: Execute `main.py` to start Catalyst AI.
 
 ## Usage
 
